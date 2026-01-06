@@ -58,6 +58,7 @@ asana-simulation/
 └── output/
 └── asana_simulation.sqlite
 ---
+```
 
 ## ⚙️ Setup & Execution
 
