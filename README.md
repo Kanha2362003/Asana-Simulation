@@ -65,7 +65,7 @@ asana-simulation/
 ### 1️⃣ Install Dependencies
 ``` bash
 pip install -r requirements.txt
-
+```
 ### 2️⃣ Run the Data Generator
 
 python src/main.py
