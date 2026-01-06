@@ -1,0 +1,14 @@
+Generate a realistic task title and description for a {{project_type}} project
+in a B2B SaaS company using Asana.
+
+Guidelines:
+- Use clear, action-oriented language
+- Avoid repetition across tasks
+- Vary the level of detail (some short, some detailed)
+- Follow a professional enterprise tone
+- Ensure the task sounds suitable for product development, marketing, or operations work
+
+Examples:
+- "Refactor authentication service to improve response time"
+- "Prepare Q3 product launch email campaign"
+- "Audit vendor invoices for compliance"
