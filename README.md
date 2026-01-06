@@ -67,10 +67,11 @@ asana-simulation/
 pip install -r requirements.txt
 ```
 ### 2️⃣ Run the Data Generator
-
+``` bash
 python src/main.py
-
+``` 
 ### 3️⃣ Output
 After successful execution, the generated database will be available at:
-
+``` bash
 output/asana_simulation.sqlite
+``` 
