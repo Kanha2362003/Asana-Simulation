@@ -27,7 +27,7 @@ The primary goal of this project is to demonstrate **data realism, methodologica
 ---
 
 ## 🗂️ Project Structure
-###
+``` 
 asana-simulation/
 ├── README.md
 ├── requirements.txt
